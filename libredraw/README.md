@@ -1,0 +1,1 @@
+This folder contains the figures for Appendix A drawn using LibreOffice Draw (Free & open-source). I have the original drawing file as well as figures in jpg and svg format. SVG is suitable for printing.
